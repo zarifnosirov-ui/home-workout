@@ -20,3 +20,7 @@ See **[PROGRAM.md](PROGRAM.md)** for the training plan. Exercises are defined in
 Settings → **Save backup** saves a `.json` file. Choose **Save to Files → iCloud Drive** (or AirDrop it to your Mac).
 To move to a new phone: install the app there, then Settings → **Restore from backup**.
 The app reminds you weekly.
+
+## Мамин тонус (`rukhshona/`)
+Отдельное приложение для Рухшоны: тренировки после родов (осанка, живот, тонус) с анимированными упражнениями.
+Адрес: https://zarifnosirov-ui.github.io/home-workout/rukhshona/
